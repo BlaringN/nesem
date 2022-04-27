@@ -4,6 +4,6 @@
 
 Nesem is a fork of [koute's](https://github.com/koute/) Pinky NES emulator.
 
-You can [run it in your Web browser](http://blaringn.github.io/pinky-web/)!
+You can [run it in your Web browser](http://blaringn.github.io/nesem/pinky-web/)!
 
 
